@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\labs\\mobilehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|solutionrelative:labs\\mobilehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\labs\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|solutionrelative:labs\\fort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\labs\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|solutionrelative:labs\\archer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\labs\\attacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|solutionrelative:labs\\attacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\labs\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61ABC148-DE02-48EF-BD0F-485749D4F630}|Labs\\Labs.csproj|solutionrelative:labs\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2EA048D-1F33-4B5C-88F8-E619460264DC}|Lab3\\Lab3.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab3\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EA048D-1F33-4B5C-88F8-E619460264DC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,69 +29,17 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MobileHouse.cs",
-              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\MobileHouse.cs",
-              "RelativeDocumentMoniker": "Labs\\MobileHouse.cs",
-              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\MobileHouse.cs",
-              "RelativeToolTip": "Labs\\MobileHouse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Title": "Builder.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab3\\Builder\\Builder.cs",
+              "RelativeDocumentMoniker": "Lab3\\Builder\\Builder.cs",
+              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab3\\Builder\\Builder.cs",
+              "RelativeToolTip": "Lab3\\Builder\\Builder.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA4wEsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:24:18.357Z",
+              "WhenOpened": "2024-11-25T22:21:53.668Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Fort.cs",
-              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Fort.cs",
-              "RelativeDocumentMoniker": "Labs\\Fort.cs",
-              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Fort.cs",
-              "RelativeToolTip": "Labs\\Fort.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:23:30.716Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Archer.cs",
-              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Archer.cs",
-              "RelativeDocumentMoniker": "Labs\\Archer.cs",
-              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Archer.cs",
-              "RelativeToolTip": "Labs\\Archer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:20:49.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Attacker.cs",
-              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Attacker.cs",
-              "RelativeDocumentMoniker": "Labs\\Attacker.cs",
-              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\Attacker.cs",
-              "RelativeToolTip": "Labs\\Attacker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T22:15:46.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\GameObject.cs",
-              "RelativeDocumentMoniker": "Labs\\GameObject.cs",
-              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Labs\\GameObject.cs",
-              "RelativeToolTip": "Labs\\GameObject.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:31:39.739Z"
             }
           ]
         },
