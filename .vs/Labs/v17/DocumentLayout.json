@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab4\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|solutionrelative:lab4\\iterator\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab4\\chain\\chain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|solutionrelative:lab4\\chain\\chain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab4\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|solutionrelative:lab4\\strategy\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87E09C6-5F51-49BA-B7E3-B80B891EB995}|Lab4\\Lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2EA048D-1F33-4B5C-88F8-E619460264DC}|Lab3\\Lab3.csproj|c:\\users\\ruslan\\desktop\\\u0437\u0430\u043A\u0430\u0437\u044B\\\u0432\u043B\u0430\u0434 c#\\labs\\lab3\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2EA048D-1F33-4B5C-88F8-E619460264DC}|Lab3\\Lab3.csproj|solutionrelative:lab3\\builder\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,12 +47,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Iterator\\Iterator.cs",
+              "RelativeDocumentMoniker": "Lab4\\Iterator\\Iterator.cs",
+              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Iterator\\Iterator.cs",
+              "RelativeToolTip": "Lab4\\Iterator\\Iterator.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:42:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chain.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Chain\\Chain.cs",
+              "RelativeDocumentMoniker": "Lab4\\Chain\\Chain.cs",
+              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Chain\\Chain.cs",
+              "RelativeToolTip": "Lab4\\Chain\\Chain.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:35:56.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Strategy\\Strategy.cs",
+              "RelativeDocumentMoniker": "Lab4\\Strategy\\Strategy.cs",
+              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Strategy\\Strategy.cs",
+              "RelativeToolTip": "Lab4\\Strategy\\Strategy.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:32:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab4\\Program.cs",
+              "RelativeToolTip": "Lab4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:31:43.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Builder.cs",
               "DocumentMoniker": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab3\\Builder\\Builder.cs",
               "RelativeDocumentMoniker": "Lab3\\Builder\\Builder.cs",
               "ToolTip": "C:\\Users\\ruslan\\Desktop\\\u0417\u0410\u041A\u0410\u0417\u042B\\\u0412\u041B\u0410\u0414 C#\\Labs\\Lab3\\Builder\\Builder.cs",
               "RelativeToolTip": "Lab3\\Builder\\Builder.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAA4wEsAAAAsAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwEsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T22:21:53.668Z",
               "EditorCaption": ""
